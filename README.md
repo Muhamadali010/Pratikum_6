@@ -1,0 +1,3 @@
+# Pratikum_6
+
+TUTOR TUTOR BANG
