@@ -1,3 +1,3 @@
-# Pratikum_6
+Pratikum_6
 
-TUTOR TUTOR BANG
+# TUTOR TUTOR BANG
