@@ -66,14 +66,13 @@ input code
 ![img1](SS/SS_B.PNG)
 ![img1](SS/SS_C.PNG)
 
-flowchart
-
-![img1](SS/Flowchart.PNG)
-
 ### Output PROGRAM
 
 ![img1](SS/Output%20program.PNG)
 
+flowchart
+
+![img1](SS/Flowchart.PNG)
 
 Terima kasih
 
