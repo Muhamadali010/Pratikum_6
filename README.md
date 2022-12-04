@@ -1,10 +1,10 @@
-Pratikum_6
+
 
 ## Nama         :   Muhamad Ali M
 ## Kelas        :   TI.22.B2
 ## Mata kuliah  :   Bahasa Pemrograman
 
-# Latihan_1
+# 1.Latihan_1
 
 input code
 
@@ -45,4 +45,27 @@ print(d("TUGAS"))
 ### Output
 
 ![img1](SS/Capture1.PNG)
+
+# B.Pratikum_6
+
+Berikut adalah tampilan program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai
+
+mahasiswa, dengan ketentuan:
+
+Fungsi tambah() untuk menambah data
+
+Fungsi tapilkan() untuk menampilkan data
+
+Fungsi hapus(nama) untuk menghapus data berdasarkan nama dan
+
+Fungsi ubah(nama) untuk mengubah data berdasarkan nama
+
+input code
+
+![img1](SS/SS_A.PNG)
+![img1](SS/SS_B.PNG)
+![img1](SS/SS_C.PNG)
+
+
+
 
